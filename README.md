@@ -5,8 +5,8 @@ I wanted a tool that could easily find the items from a specific user, or if i k
     GitHub Repo Downloader and Installer Script
 
     Usage:
-        script.py -s <software_name>
-        script.py -a <author_name>
+        GH-Grabber.py -s <software_name>
+        GH-Grabber.py -a <author_name>
 
     Arguments:
         -s, --software    Specify the software name to search for repositories.
