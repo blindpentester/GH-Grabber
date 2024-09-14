@@ -18,16 +18,16 @@ def print_help():
     {Fore.CYAN}GitHub Repo Downloader and Installer Script{Style.RESET_ALL}
 
     {Fore.CYAN}Usage:{Style.RESET_ALL}
-        script.py -s <software_name>
-        script.py -a <author_name>
+        GH-Grabber.py -s <software_name>
+        GH-Grabber.py -a <author_name>
 
     {Fore.CYAN}Arguments:{Style.RESET_ALL}
         -s, --software    Specify the software name to search for repositories.
         -a, --author      Specify the author name to find repositories by author.
 
     {Fore.CYAN}Examples:{Style.RESET_ALL}
-        script.py -s example-software
-        script.py -a example-author
+        GH-Grabber.py -s example-software
+        GH-Grabber.py -a example-author
     """
     print(help_text)
 
